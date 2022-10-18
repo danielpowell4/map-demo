@@ -42,7 +42,7 @@ export default function Home() {
         </ul>
 
         <Map className={styles.homeMap} center={DEFAULT_CENTER} zoom={12}>
-          {({ TileLayer, Circle, Popup }) => (
+          {({ TileLayer, Circle, Marker, Popup }) => (
             <>
               <TileLayer
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -66,6 +66,9 @@ export default function Home() {
                     </Circle>
                   );
                 })}
+              <Marker position={DEFAULT_CENTER}>
+                <Popup>TCS UES</Popup>
+              </Marker>
             </>
           )}
         </Map>
