@@ -1,0 +1,3208 @@
+[
+  {
+    "student_id": "52612",
+    "max_location": "online",
+    "lat": 40.804247,
+    "long": -73.674821,
+    "lessons": 17
+  },
+  {
+    "student_id": "52756",
+    "max_location": "online",
+    "lat": 40.791037,
+    "long": -73.712272,
+    "lessons": 16
+  },
+  {
+    "student_id": "48363",
+    "max_location": "online",
+    "lat": 40.816164,
+    "long": -73.723651,
+    "lessons": 13
+  },
+  {
+    "student_id": "51574",
+    "max_location": "pp_office",
+    "lat": 40.837443,
+    "long": -73.688501,
+    "lessons": 12
+  },
+  {
+    "student_id": "44935",
+    "max_location": "pp_office",
+    "lat": 40.821809,
+    "long": -73.69995,
+    "lessons": 2
+  },
+  {
+    "student_id": "40956",
+    "max_location": "online",
+    "lat": 40.834376,
+    "long": -73.696042,
+    "lessons": 23
+  },
+  {
+    "student_id": "43529",
+    "max_location": "online",
+    "lat": 40.819381,
+    "long": -73.747004,
+    "lessons": 2
+  },
+  {
+    "student_id": "39358",
+    "max_location": "online",
+    "lat": 40.814817,
+    "long": -73.517861,
+    "lessons": 11
+  },
+  {
+    "student_id": "41813",
+    "max_location": "online",
+    "lat": 40.777711,
+    "long": -73.700203,
+    "lessons": 14
+  },
+  {
+    "student_id": "50902",
+    "max_location": "online",
+    "lat": 40.844787,
+    "long": -73.464011,
+    "lessons": 13
+  },
+  {
+    "student_id": "45465",
+    "max_location": "online",
+    "lat": 40.772551,
+    "long": -73.745847,
+    "lessons": 3
+  },
+  {
+    "student_id": "31621",
+    "max_location": "online",
+    "lat": 40.870731,
+    "long": -73.520329,
+    "lessons": 14
+  },
+  {
+    "student_id": "52002",
+    "max_location": "online",
+    "lat": 41.022287,
+    "long": -73.57639,
+    "lessons": 15
+  },
+  {
+    "student_id": "52701",
+    "max_location": "pp_office",
+    "lat": 40.770312,
+    "long": -73.665072,
+    "lessons": 6
+  },
+  {
+    "student_id": "23934",
+    "max_location": "online",
+    "lat": 40.792962,
+    "long": -73.596195,
+    "lessons": 18
+  },
+  {
+    "student_id": "49806",
+    "max_location": "at_client",
+    "lat": 40.804011,
+    "long": -73.618919,
+    "lessons": 14
+  },
+  {
+    "student_id": "52813",
+    "max_location": "pp_office",
+    "lat": 40.800693,
+    "long": -73.644469,
+    "lessons": 12
+  },
+  {
+    "student_id": "41383",
+    "max_location": "at_client",
+    "lat": 40.763747,
+    "long": -73.682546,
+    "lessons": 8
+  },
+  {
+    "student_id": "52811",
+    "max_location": "pp_office",
+    "lat": 40.861649,
+    "long": -73.728248,
+    "lessons": 17
+  },
+  {
+    "student_id": "50380",
+    "max_location": "online",
+    "lat": 40.832926,
+    "long": -73.676454,
+    "lessons": 11
+  },
+  {
+    "student_id": "41618",
+    "max_location": "at_client",
+    "lat": 40.81761,
+    "long": -73.567672,
+    "lessons": 4
+  },
+  {
+    "student_id": "27943",
+    "max_location": "pp_office",
+    "lat": 40.772577,
+    "long": -73.634327,
+    "lessons": 9
+  },
+  {
+    "student_id": "52693",
+    "max_location": "pp_office",
+    "lat": 40.828007,
+    "long": -73.598196,
+    "lessons": 21
+  },
+  {
+    "student_id": "41379",
+    "max_location": "pp_office",
+    "lat": 40.7795,
+    "long": -73.820058,
+    "lessons": 9
+  },
+  {
+    "student_id": "48992",
+    "max_location": "at_client",
+    "lat": 40.908233,
+    "long": -73.549508,
+    "lessons": 12
+  },
+  {
+    "student_id": "52124",
+    "max_location": "online",
+    "lat": 40.78843,
+    "long": -73.954489,
+    "lessons": 9
+  },
+  {
+    "student_id": "52426",
+    "max_location": "pp_office",
+    "lat": 40.804276,
+    "long": -73.630947,
+    "lessons": 4
+  },
+  {
+    "student_id": "37133",
+    "max_location": "online",
+    "lat": 26.412137,
+    "long": -80.145759,
+    "lessons": 19
+  },
+  {
+    "student_id": "50432",
+    "max_location": "online",
+    "lat": 40.830223,
+    "long": -73.49179,
+    "lessons": 16
+  },
+  {
+    "student_id": "46401",
+    "max_location": "at_client",
+    "lat": 40.791841,
+    "long": -73.718502,
+    "lessons": 10
+  },
+  {
+    "student_id": "36766",
+    "max_location": "at_client",
+    "lat": 40.803626,
+    "long": -73.620644,
+    "lessons": 12
+  },
+  {
+    "student_id": "47025",
+    "max_location": "online",
+    "lat": 40.827576,
+    "long": -73.691628,
+    "lessons": 8
+  },
+  {
+    "student_id": "43790",
+    "max_location": "at_client",
+    "lat": 40.773961,
+    "long": -73.716387,
+    "lessons": 4
+  },
+  {
+    "student_id": "38274",
+    "max_location": "pp_office",
+    "lat": 40.855565,
+    "long": -73.715307,
+    "lessons": 12
+  },
+  {
+    "student_id": "49131",
+    "max_location": "pp_office",
+    "lat": 40.806673,
+    "long": -73.666705,
+    "lessons": 15
+  },
+  {
+    "student_id": "38655",
+    "max_location": "at_client",
+    "lat": 40.929781,
+    "long": -73.451606,
+    "lessons": 6
+  },
+  {
+    "student_id": "36859",
+    "max_location": "online",
+    "lat": 40.817485,
+    "long": -73.753624,
+    "lessons": 12
+  },
+  {
+    "student_id": "50498",
+    "max_location": "online",
+    "lat": 40.794819,
+    "long": -73.652172,
+    "lessons": 8
+  },
+  {
+    "student_id": "50776",
+    "max_location": "at_client",
+    "lat": 40.803035,
+    "long": -73.627175,
+    "lessons": 13
+  },
+  {
+    "student_id": "53125",
+    "max_location": "at_client",
+    "lat": 40.840041,
+    "long": -73.468891,
+    "lessons": 16
+  },
+  {
+    "student_id": "52697",
+    "max_location": "pp_office",
+    "lat": 40.902949,
+    "long": -73.452757,
+    "lessons": 8
+  },
+  {
+    "student_id": "42469",
+    "max_location": "pp_office",
+    "lat": 40.859804,
+    "long": -73.708019,
+    "lessons": 4
+  },
+  {
+    "student_id": "50251",
+    "max_location": "online",
+    "lat": 40.82007,
+    "long": -73.683673,
+    "lessons": 13
+  },
+  {
+    "student_id": "47377",
+    "max_location": "online",
+    "lat": 40.837862,
+    "long": -73.691398,
+    "lessons": 10
+  },
+  {
+    "student_id": "46747",
+    "max_location": "online",
+    "lat": 40.808553,
+    "long": -73.686064,
+    "lessons": 2
+  },
+  {
+    "student_id": "51345",
+    "max_location": "online",
+    "lat": 40.799649,
+    "long": -73.671671,
+    "lessons": 15
+  },
+  {
+    "student_id": "40214",
+    "max_location": "online",
+    "lat": 40.824157,
+    "long": -73.693283,
+    "lessons": 15
+  },
+  {
+    "student_id": "13877",
+    "max_location": "online",
+    "lat": 40.788895,
+    "long": -73.954586,
+    "lessons": 7
+  },
+  {
+    "student_id": "47103",
+    "max_location": "online",
+    "lat": 40.790497,
+    "long": -73.40902,
+    "lessons": 8
+  },
+  {
+    "student_id": "50911",
+    "max_location": "online",
+    "lat": 40.696025,
+    "long": -73.547381,
+    "lessons": 22
+  },
+  {
+    "student_id": "7367",
+    "max_location": "online",
+    "lat": 40.793503,
+    "long": -73.633155,
+    "lessons": 1
+  },
+  {
+    "student_id": "52695",
+    "max_location": "pp_office",
+    "lat": 40.713472,
+    "long": -73.548255,
+    "lessons": 9
+  },
+  {
+    "student_id": "50470",
+    "max_location": "at_client",
+    "lat": 40.822569,
+    "long": -73.498256,
+    "lessons": 4
+  },
+  {
+    "student_id": "51034",
+    "max_location": "online",
+    "lat": 40.844595,
+    "long": -73.704134,
+    "lessons": 10
+  },
+  {
+    "student_id": "38462",
+    "max_location": "online",
+    "lat": 40.789981,
+    "long": -73.65999,
+    "lessons": 25
+  },
+  {
+    "student_id": "17598",
+    "max_location": "online",
+    "lat": 40.827089,
+    "long": -73.457199,
+    "lessons": 5
+  },
+  {
+    "student_id": "49725",
+    "max_location": "online",
+    "lat": 40.826537,
+    "long": -73.618252,
+    "lessons": 9
+  },
+  {
+    "student_id": "50671",
+    "max_location": "pp_office",
+    "lat": 40.85822,
+    "long": -73.713307,
+    "lessons": 13
+  },
+  {
+    "student_id": "42245",
+    "max_location": "at_client",
+    "lat": 40.850082,
+    "long": -73.708939,
+    "lessons": 9
+  },
+  {
+    "student_id": "51043",
+    "max_location": "online",
+    "lat": 40.787835,
+    "long": -73.750429,
+    "lessons": 19
+  },
+  {
+    "student_id": "50514",
+    "max_location": "at_client",
+    "lat": 40.832789,
+    "long": -73.635707,
+    "lessons": 6
+  },
+  {
+    "student_id": "33589",
+    "max_location": "online",
+    "lat": 40.816052,
+    "long": -73.601232,
+    "lessons": 14
+  },
+  {
+    "student_id": "48682",
+    "max_location": "online",
+    "lat": 40.788726,
+    "long": -73.631039,
+    "lessons": 14
+  },
+  {
+    "student_id": "48011",
+    "max_location": "online",
+    "lat": 40.821311,
+    "long": -73.619908,
+    "lessons": 14
+  },
+  {
+    "student_id": "48261",
+    "max_location": "online",
+    "lat": 40.62739,
+    "long": -73.64192,
+    "lessons": 7
+  },
+  {
+    "student_id": "41993",
+    "max_location": "at_client",
+    "lat": 40.833988,
+    "long": -73.676477,
+    "lessons": 5
+  },
+  {
+    "student_id": "51212",
+    "max_location": "online",
+    "lat": 40.824443,
+    "long": -73.693927,
+    "lessons": 7
+  },
+  {
+    "student_id": "42118",
+    "max_location": "online",
+    "lat": 40.839377,
+    "long": -73.702663,
+    "lessons": 13
+  },
+  {
+    "student_id": "23932",
+    "max_location": "online",
+    "lat": 40.868733,
+    "long": -73.517792,
+    "lessons": 9
+  },
+  {
+    "student_id": "48483",
+    "max_location": "online",
+    "lat": 40.80552,
+    "long": -73.702778,
+    "lessons": 13
+  },
+  {
+    "student_id": "49259",
+    "max_location": "online",
+    "lat": 40.89265,
+    "long": -73.58727,
+    "lessons": 13
+  },
+  {
+    "student_id": "49901",
+    "max_location": "online",
+    "lat": 40.795902,
+    "long": -73.727812,
+    "lessons": 11
+  },
+  {
+    "student_id": "46277",
+    "max_location": "online",
+    "lat": 40.792631,
+    "long": -73.624508,
+    "lessons": 9
+  },
+  {
+    "student_id": "52858",
+    "max_location": "pp_office",
+    "lat": 40.780735,
+    "long": -73.550257,
+    "lessons": 7
+  },
+  {
+    "student_id": "52854",
+    "max_location": "pp_office",
+    "lat": 40.690594,
+    "long": -73.511809,
+    "lessons": 3
+  },
+  {
+    "student_id": "52844",
+    "max_location": "pp_office",
+    "lat": 40.80911,
+    "long": -73.526589,
+    "lessons": 6
+  },
+  {
+    "student_id": "52860",
+    "max_location": "pp_office",
+    "lat": 40.821117,
+    "long": -73.525604,
+    "lessons": 10
+  },
+  {
+    "student_id": "52843",
+    "max_location": "pp_office",
+    "lat": 40.80911,
+    "long": -73.526589,
+    "lessons": 7
+  },
+  {
+    "student_id": "42099",
+    "max_location": "pp_office",
+    "lat": 40.777943,
+    "long": -73.743685,
+    "lessons": 7
+  },
+  {
+    "student_id": "27457",
+    "max_location": "pp_office",
+    "lat": 40.797349,
+    "long": -73.821666,
+    "lessons": 8
+  },
+  {
+    "student_id": "52830",
+    "max_location": "pp_office",
+    "lat": 40.80579,
+    "long": -73.504722,
+    "lessons": 13
+  },
+  {
+    "student_id": "52846",
+    "max_location": "pp_office",
+    "lat": 40.722701,
+    "long": -73.472734,
+    "lessons": 6
+  },
+  {
+    "student_id": "35116",
+    "max_location": "pp_office",
+    "lat": 40.780318,
+    "long": -73.375774,
+    "lessons": 7
+  },
+  {
+    "student_id": "52832",
+    "max_location": "pp_office",
+    "lat": 40.843245,
+    "long": -73.461894,
+    "lessons": 17
+  },
+  {
+    "student_id": "52712",
+    "max_location": "at_client",
+    "lat": 40.765161,
+    "long": -73.60942,
+    "lessons": 12
+  },
+  {
+    "student_id": "52856",
+    "max_location": "pp_office",
+    "lat": 40.789056,
+    "long": -73.412174,
+    "lessons": 5
+  },
+  {
+    "student_id": "42370",
+    "max_location": "online",
+    "lat": 40.815018,
+    "long": -73.634902,
+    "lessons": 11
+  },
+  {
+    "student_id": "43810",
+    "max_location": "online",
+    "lat": 40.78949,
+    "long": -73.405843,
+    "lessons": 8
+  },
+  {
+    "student_id": "52834",
+    "max_location": "pp_office",
+    "lat": 40.843245,
+    "long": -73.461894,
+    "lessons": 9
+  },
+  {
+    "student_id": "52864",
+    "max_location": "pp_office",
+    "lat": 40.777492,
+    "long": -73.560677,
+    "lessons": 14
+  },
+  {
+    "student_id": "41381",
+    "max_location": "pp_office",
+    "lat": 40.810145,
+    "long": -73.70133,
+    "lessons": 8
+  },
+  {
+    "student_id": "52848",
+    "max_location": "pp_office",
+    "lat": 40.789583,
+    "long": -73.403863,
+    "lessons": 4
+  },
+  {
+    "student_id": "52815",
+    "max_location": "pp_office",
+    "lat": 40.772561,
+    "long": -73.394309,
+    "lessons": 8
+  },
+  {
+    "student_id": "52826",
+    "max_location": "pp_office",
+    "lat": 40.841769,
+    "long": -73.515836,
+    "lessons": 8
+  },
+  {
+    "student_id": "52828",
+    "max_location": "pp_office",
+    "lat": 40.7229,
+    "long": -73.626899,
+    "lessons": 8
+  },
+  {
+    "student_id": "50386",
+    "max_location": "pp_office",
+    "lat": 40.752936,
+    "long": -73.809902,
+    "lessons": 8
+  },
+  {
+    "student_id": "51240",
+    "max_location": "online",
+    "lat": 40.802926,
+    "long": -73.67328,
+    "lessons": 12
+  },
+  {
+    "student_id": "52868",
+    "max_location": "pp_office",
+    "lat": 40.886421,
+    "long": -73.431902,
+    "lessons": 8
+  },
+  {
+    "student_id": "50598",
+    "max_location": "online",
+    "lat": 40.791877,
+    "long": -73.424398,
+    "lessons": 14
+  },
+  {
+    "student_id": "41851",
+    "max_location": "online",
+    "lat": 33.868586,
+    "long": -84.404422,
+    "lessons": 35
+  },
+  {
+    "student_id": "51016",
+    "max_location": "online",
+    "lat": 40.799282,
+    "long": -73.68004,
+    "lessons": 17
+  },
+  {
+    "student_id": "49302",
+    "max_location": "online",
+    "lat": 40.912602,
+    "long": -73.561966,
+    "lessons": 18
+  },
+  {
+    "student_id": "46989",
+    "max_location": "online",
+    "lat": 40.840689,
+    "long": -73.718663,
+    "lessons": 14
+  },
+  {
+    "student_id": "52055",
+    "max_location": "online",
+    "lat": 40.878552,
+    "long": -73.395598,
+    "lessons": 15
+  },
+  {
+    "student_id": "52821",
+    "max_location": "pp_office",
+    "lat": 40.750286,
+    "long": -73.568822,
+    "lessons": 9
+  },
+  {
+    "student_id": "36151",
+    "max_location": "pp_office",
+    "lat": 40.797349,
+    "long": -73.821666,
+    "lessons": 5
+  },
+  {
+    "student_id": "52819",
+    "max_location": "pp_office",
+    "lat": 40.786451,
+    "long": -73.374807,
+    "lessons": 3
+  },
+  {
+    "student_id": "52092",
+    "max_location": "pp_office",
+    "lat": 40.822335,
+    "long": -73.676178,
+    "lessons": 9
+  },
+  {
+    "student_id": "30124",
+    "max_location": "at_client",
+    "lat": 40.774468,
+    "long": -73.720433,
+    "lessons": 7
+  },
+  {
+    "student_id": "52866",
+    "max_location": "pp_office",
+    "lat": 40.783959,
+    "long": -73.360416,
+    "lessons": 5
+  },
+  {
+    "student_id": "53070",
+    "max_location": "pp_office",
+    "lat": 40.929867,
+    "long": -73.448798,
+    "lessons": 6
+  },
+  {
+    "student_id": "35529",
+    "max_location": "online",
+    "lat": 40.798403,
+    "long": -73.68142,
+    "lessons": 5
+  },
+  {
+    "student_id": "45580",
+    "max_location": "online",
+    "lat": 40.843843,
+    "long": -73.70533,
+    "lessons": 10
+  },
+  {
+    "student_id": "52260",
+    "max_location": "pp_office",
+    "lat": 40.788461,
+    "long": -73.682477,
+    "lessons": 4
+  },
+  {
+    "student_id": "52849",
+    "max_location": "pp_office",
+    "lat": 40.780318,
+    "long": -73.375774,
+    "lessons": 3
+  },
+  {
+    "student_id": "38673",
+    "max_location": "online",
+    "lat": 40.807666,
+    "long": -73.704962,
+    "lessons": 9
+  },
+  {
+    "student_id": "51543",
+    "max_location": "pp_office",
+    "lat": 40.681405,
+    "long": -73.504906,
+    "lessons": 6
+  },
+  {
+    "student_id": "15646",
+    "max_location": "online",
+    "lat": 40.817485,
+    "long": -73.753624,
+    "lessons": 8
+  },
+  {
+    "student_id": "47113",
+    "max_location": "online",
+    "lat": 40.766047,
+    "long": -73.356064,
+    "lessons": 10
+  },
+  {
+    "student_id": "24978",
+    "max_location": "online",
+    "lat": 40.810038,
+    "long": -73.66813,
+    "lessons": 1
+  },
+  {
+    "student_id": "42525",
+    "max_location": "online",
+    "lat": 40.76348,
+    "long": -73.783431,
+    "lessons": 1
+  },
+  {
+    "student_id": "52354",
+    "max_location": "online",
+    "lat": 40.858509,
+    "long": -73.440005,
+    "lessons": 11
+  },
+  {
+    "student_id": "42107",
+    "max_location": "online",
+    "lat": 40.844878,
+    "long": -73.478119,
+    "lessons": 9
+  },
+  {
+    "student_id": "53241",
+    "max_location": "pp_office",
+    "lat": 40.801204,
+    "long": -73.677879,
+    "lessons": 10
+  },
+  {
+    "student_id": "36547",
+    "max_location": "online",
+    "lat": 40.801945,
+    "long": -73.677143,
+    "lessons": 11
+  },
+  {
+    "student_id": "52862",
+    "max_location": "pp_office",
+    "lat": 40.92702,
+    "long": -73.448636,
+    "lessons": 5
+  },
+  {
+    "student_id": "53175",
+    "max_location": "pp_office",
+    "lat": 40.816607,
+    "long": -73.677051,
+    "lessons": 11
+  },
+  {
+    "student_id": "52783",
+    "max_location": "online",
+    "lat": 40.788357,
+    "long": -73.710525,
+    "lessons": 10
+  },
+  {
+    "student_id": "16057",
+    "max_location": "online",
+    "lat": 40.785656,
+    "long": -73.636029,
+    "lessons": 11
+  },
+  {
+    "student_id": "52027",
+    "max_location": "pp_office",
+    "lat": 40.8488,
+    "long": -73.702065,
+    "lessons": 12
+  },
+  {
+    "student_id": "51066",
+    "max_location": "online",
+    "lat": 40.668332,
+    "long": -73.564405,
+    "lessons": 8
+  },
+  {
+    "student_id": "47176",
+    "max_location": "online",
+    "lat": 40.846249,
+    "long": -73.646745,
+    "lessons": 8
+  },
+  {
+    "student_id": "52045",
+    "max_location": "at_client",
+    "lat": 40.866907,
+    "long": -73.476347,
+    "lessons": 11
+  },
+  {
+    "student_id": "48090",
+    "max_location": "at_client",
+    "lat": 40.801913,
+    "long": -73.626347,
+    "lessons": 11
+  },
+  {
+    "student_id": "46832",
+    "max_location": "online",
+    "lat": 40.587365,
+    "long": -73.71133,
+    "lessons": 13
+  },
+  {
+    "student_id": "39744",
+    "max_location": "pp_office",
+    "lat": 40.850762,
+    "long": -73.724295,
+    "lessons": 4
+  },
+  {
+    "student_id": "40253",
+    "max_location": "online",
+    "lat": 25.683752,
+    "long": -80.173339,
+    "lessons": 11
+  },
+  {
+    "student_id": "43938",
+    "max_location": "at_client",
+    "lat": 40.805725,
+    "long": -73.67758,
+    "lessons": 16
+  },
+  {
+    "student_id": "50466",
+    "max_location": "at_client",
+    "lat": 40.892725,
+    "long": -73.456992,
+    "lessons": 10
+  },
+  {
+    "student_id": "43940",
+    "max_location": "online",
+    "lat": 40.805725,
+    "long": -73.67758,
+    "lessons": 9
+  },
+  {
+    "student_id": "50971",
+    "max_location": "pp_office",
+    "lat": 40.799177,
+    "long": -73.688363,
+    "lessons": 10
+  },
+  {
+    "student_id": "53132",
+    "max_location": "online",
+    "lat": 40.815624,
+    "long": -73.684087,
+    "lessons": 5
+  },
+  {
+    "student_id": "37738",
+    "max_location": "pp_office",
+    "lat": 40.850989,
+    "long": -73.713077,
+    "lessons": 6
+  },
+  {
+    "student_id": "50484",
+    "max_location": "online",
+    "lat": 40.801336,
+    "long": -73.683581,
+    "lessons": 11
+  },
+  {
+    "student_id": "35452",
+    "max_location": "online",
+    "lat": 40.83022,
+    "long": -73.689811,
+    "lessons": 2
+  },
+  {
+    "student_id": "46880",
+    "max_location": "online",
+    "lat": 40.74933,
+    "long": -73.486635,
+    "lessons": 1
+  },
+  {
+    "student_id": "53336",
+    "max_location": "online",
+    "lat": 40.658623,
+    "long": -73.56215,
+    "lessons": 14
+  },
+  {
+    "student_id": "40106",
+    "max_location": "pp_office",
+    "lat": 40.803318,
+    "long": -73.703399,
+    "lessons": 8
+  },
+  {
+    "student_id": "44016",
+    "max_location": "at_client",
+    "lat": 40.833558,
+    "long": -73.607764,
+    "lessons": 8
+  },
+  {
+    "student_id": "52412",
+    "max_location": "at_client",
+    "lat": 40.788712,
+    "long": -73.647351,
+    "lessons": 11
+  },
+  {
+    "student_id": "32940",
+    "max_location": "at_client",
+    "lat": 40.800962,
+    "long": -73.622323,
+    "lessons": 6
+  },
+  {
+    "student_id": "33658",
+    "max_location": "online",
+    "lat": 40.783228,
+    "long": -73.74574,
+    "lessons": 2
+  },
+  {
+    "student_id": "52743",
+    "max_location": "online",
+    "lat": 40.800365,
+    "long": -73.683109,
+    "lessons": 22
+  },
+  {
+    "student_id": "35118",
+    "max_location": "online",
+    "lat": 40.804765,
+    "long": -73.617884,
+    "lessons": 11
+  },
+  {
+    "student_id": "49211",
+    "max_location": "online",
+    "lat": 40.811808,
+    "long": -73.614401,
+    "lessons": 12
+  },
+  {
+    "student_id": "52096",
+    "max_location": "online",
+    "lat": 40.883482,
+    "long": -73.187186,
+    "lessons": 8
+  },
+  {
+    "student_id": "51562",
+    "max_location": "at_client",
+    "lat": 40.874279,
+    "long": -73.454414,
+    "lessons": 9
+  },
+  {
+    "student_id": "46701",
+    "max_location": "online",
+    "lat": 40.879816,
+    "long": -73.426668,
+    "lessons": 11
+  },
+  {
+    "student_id": "52785",
+    "max_location": "online",
+    "lat": 40.762742,
+    "long": -73.677603,
+    "lessons": 11
+  },
+  {
+    "student_id": "40286",
+    "max_location": "online",
+    "lat": 40.835967,
+    "long": -73.676454,
+    "lessons": 7
+  },
+  {
+    "student_id": "38675",
+    "max_location": "online",
+    "lat": 40.804308,
+    "long": -73.483321,
+    "lessons": 13
+  },
+  {
+    "student_id": "46295",
+    "max_location": "pp_office",
+    "lat": 40.81823,
+    "long": -73.682937,
+    "lessons": 3
+  },
+  {
+    "student_id": "52800",
+    "max_location": "online",
+    "lat": 40.731823,
+    "long": -73.529757,
+    "lessons": 12
+  },
+  {
+    "student_id": "52469",
+    "max_location": "pp_office",
+    "lat": 40.800029,
+    "long": -73.641088,
+    "lessons": 6
+  },
+  {
+    "student_id": "35093",
+    "max_location": "at_client",
+    "lat": 40.794267,
+    "long": -73.660407,
+    "lessons": 12
+  },
+  {
+    "student_id": "50887",
+    "max_location": "online",
+    "lat": 40.780404,
+    "long": -73.467625,
+    "lessons": 7
+  },
+  {
+    "student_id": "52732",
+    "max_location": "at_client",
+    "lat": 40.800634,
+    "long": -73.679534,
+    "lessons": 7
+  },
+  {
+    "student_id": "50505",
+    "max_location": "online",
+    "lat": 40.789722,
+    "long": -73.672821,
+    "lessons": 15
+  },
+  {
+    "student_id": "46820",
+    "max_location": "online",
+    "lat": 40.670736,
+    "long": -73.56077,
+    "lessons": 3
+  },
+  {
+    "student_id": "50690",
+    "max_location": "online",
+    "lat": 40.800745,
+    "long": -73.63143,
+    "lessons": 11
+  },
+  {
+    "student_id": "52075",
+    "max_location": "online",
+    "lat": 40.817453,
+    "long": -73.673051,
+    "lessons": 10
+  },
+  {
+    "student_id": "53436",
+    "max_location": "at_client",
+    "lat": 40.836541,
+    "long": -73.511142,
+    "lessons": 5
+  },
+  {
+    "student_id": "41915",
+    "max_location": "online",
+    "lat": 40.800146,
+    "long": -73.679351,
+    "lessons": 8
+  },
+  {
+    "student_id": "52089",
+    "max_location": "online",
+    "lat": 40.71204,
+    "long": -73.476278,
+    "lessons": 11
+  },
+  {
+    "student_id": "47495",
+    "max_location": "online",
+    "lat": 43.697129,
+    "long": -114.351717,
+    "lessons": 10
+  },
+  {
+    "student_id": "42037",
+    "max_location": "online",
+    "lat": 40.845199,
+    "long": -73.677503,
+    "lessons": 6
+  },
+  {
+    "student_id": "49793",
+    "max_location": "online",
+    "lat": 40.844578,
+    "long": -73.702157,
+    "lessons": 11
+  },
+  {
+    "student_id": "40189",
+    "max_location": "online",
+    "lat": 40.783931,
+    "long": -73.570041,
+    "lessons": 24
+  },
+  {
+    "student_id": "50623",
+    "max_location": "pp_office",
+    "lat": 40.840665,
+    "long": -73.682569,
+    "lessons": 4
+  },
+  {
+    "student_id": "37927",
+    "max_location": "at_client",
+    "lat": 40.840423,
+    "long": -73.722449,
+    "lessons": 17
+  },
+  {
+    "student_id": "48477",
+    "max_location": "at_client",
+    "lat": 40.796552,
+    "long": -73.662129,
+    "lessons": 6
+  },
+  {
+    "student_id": "50958",
+    "max_location": "at_client",
+    "lat": 40.90504,
+    "long": -73.45546,
+    "lessons": 8
+  },
+  {
+    "student_id": "43586",
+    "max_location": "online",
+    "lat": 40.850082,
+    "long": -73.708939,
+    "lessons": 18
+  },
+  {
+    "student_id": "48467",
+    "max_location": "online",
+    "lat": 40.801193,
+    "long": -73.637421,
+    "lessons": 12
+  },
+  {
+    "student_id": "50483",
+    "max_location": "online",
+    "lat": 40.798779,
+    "long": -73.644952,
+    "lessons": 9
+  },
+  {
+    "student_id": "39249",
+    "max_location": "online",
+    "lat": 40.78961,
+    "long": -73.632879,
+    "lessons": 6
+  },
+  {
+    "student_id": "49128",
+    "max_location": "online",
+    "lat": 40.633373,
+    "long": -73.646378,
+    "lessons": 6
+  },
+  {
+    "student_id": "52708",
+    "max_location": "online",
+    "lat": 40.844842,
+    "long": -73.692938,
+    "lessons": 5
+  },
+  {
+    "student_id": "50594",
+    "max_location": "online",
+    "lat": 40.786399,
+    "long": -73.640352,
+    "lessons": 9
+  },
+  {
+    "student_id": "52404",
+    "max_location": "online",
+    "lat": 40.792224,
+    "long": -73.635891,
+    "lessons": 10
+  },
+  {
+    "student_id": "52659",
+    "max_location": "online",
+    "lat": 40.788037,
+    "long": -73.681144,
+    "lessons": 8
+  },
+  {
+    "student_id": "41225",
+    "max_location": "pp_office",
+    "lat": 40.805951,
+    "long": -73.666245,
+    "lessons": 1
+  },
+  {
+    "student_id": "39263",
+    "max_location": "online",
+    "lat": 40.797865,
+    "long": -73.637593,
+    "lessons": 5
+  },
+  {
+    "student_id": "53445",
+    "max_location": "pp_office",
+    "lat": 40.867688,
+    "long": -73.477449,
+    "lessons": 6
+  },
+  {
+    "student_id": "52773",
+    "max_location": "online",
+    "lat": 40.888935,
+    "long": -73.444344,
+    "lessons": 10
+  },
+  {
+    "student_id": "47086",
+    "max_location": "online",
+    "lat": 40.847001,
+    "long": -73.694823,
+    "lessons": 8
+  },
+  {
+    "student_id": "44003",
+    "max_location": "online",
+    "lat": 40.7709,
+    "long": -73.461917,
+    "lessons": 7
+  },
+  {
+    "student_id": "53805",
+    "max_location": "online",
+    "lat": 40.722229,
+    "long": -74.671857,
+    "lessons": 16
+  },
+  {
+    "student_id": "41706",
+    "max_location": "online",
+    "lat": 40.785998,
+    "long": -73.733087,
+    "lessons": 8
+  },
+  {
+    "student_id": "24077",
+    "max_location": "at_client",
+    "lat": 40.850464,
+    "long": -73.451859,
+    "lessons": 4
+  },
+  {
+    "student_id": "27951",
+    "max_location": "online",
+    "lat": 40.805308,
+    "long": -73.629567,
+    "lessons": 4
+  },
+  {
+    "student_id": "49375",
+    "max_location": "online",
+    "lat": 40.82232,
+    "long": -73.472941,
+    "lessons": 5
+  },
+  {
+    "student_id": "5276",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 1
+  },
+  {
+    "student_id": "40108",
+    "max_location": "online",
+    "lat": 40.79975,
+    "long": -73.630418,
+    "lessons": 13
+  },
+  {
+    "student_id": "40603",
+    "max_location": "online",
+    "lat": 40.837924,
+    "long": -73.686717,
+    "lessons": 15
+  },
+  {
+    "student_id": "39657",
+    "max_location": "online",
+    "lat": 40.809353,
+    "long": -73.669119,
+    "lessons": 11
+  },
+  {
+    "student_id": "42343",
+    "max_location": "pp_office",
+    "lat": 40.776472,
+    "long": -73.749138,
+    "lessons": 9
+  },
+  {
+    "student_id": "30545",
+    "max_location": "online",
+    "lat": 40.794891,
+    "long": -73.705606,
+    "lessons": 10
+  },
+  {
+    "student_id": "51990",
+    "max_location": "at_client",
+    "lat": 40.7954,
+    "long": -73.728869,
+    "lessons": 6
+  },
+  {
+    "student_id": "39073",
+    "max_location": "at_client",
+    "lat": 40.789524,
+    "long": -73.404899,
+    "lessons": 8
+  },
+  {
+    "student_id": "53729",
+    "max_location": "at_client",
+    "lat": 40.793552,
+    "long": -73.743304,
+    "lessons": 11
+  },
+  {
+    "student_id": "50369",
+    "max_location": "pp_office",
+    "lat": 40.839668,
+    "long": -73.673832,
+    "lessons": 8
+  },
+  {
+    "student_id": "42221",
+    "max_location": "at_client",
+    "lat": 40.81362,
+    "long": -73.571329,
+    "lessons": 24
+  },
+  {
+    "student_id": "47372",
+    "max_location": "at_client",
+    "lat": 40.818657,
+    "long": -73.490869,
+    "lessons": 8
+  },
+  {
+    "student_id": "47371",
+    "max_location": "at_client",
+    "lat": 40.818657,
+    "long": -73.490869,
+    "lessons": 8
+  },
+  {
+    "student_id": "53807",
+    "max_location": "online",
+    "lat": 40.801467,
+    "long": -73.474162,
+    "lessons": 5
+  },
+  {
+    "student_id": "47601",
+    "max_location": "online",
+    "lat": 40.712153,
+    "long": -73.26716,
+    "lessons": 5
+  },
+  {
+    "student_id": "51984",
+    "max_location": "online",
+    "lat": 40.799142,
+    "long": -73.685857,
+    "lessons": 9
+  },
+  {
+    "student_id": "40597",
+    "max_location": "online",
+    "lat": 40.845051,
+    "long": -73.691858,
+    "lessons": 11
+  },
+  {
+    "student_id": "43535",
+    "max_location": "online",
+    "lat": 40.849071,
+    "long": -73.712065,
+    "lessons": 7
+  },
+  {
+    "student_id": "37880",
+    "max_location": "online",
+    "lat": 40.83522,
+    "long": -73.694157,
+    "lessons": 11
+  },
+  {
+    "student_id": "53913",
+    "max_location": "online",
+    "lat": 40.802013,
+    "long": -73.677879,
+    "lessons": 6
+  },
+  {
+    "student_id": "47000",
+    "max_location": "online",
+    "lat": 40.817881,
+    "long": -73.677603,
+    "lessons": 8
+  },
+  {
+    "student_id": "51176",
+    "max_location": "online",
+    "lat": 40.810361,
+    "long": -73.671683,
+    "lessons": 11
+  },
+  {
+    "student_id": "37853",
+    "max_location": "online",
+    "lat": 40.825407,
+    "long": -73.691812,
+    "lessons": 12
+  },
+  {
+    "student_id": "53345",
+    "max_location": "at_client",
+    "lat": 40.810934,
+    "long": -73.699858,
+    "lessons": 9
+  },
+  {
+    "student_id": "53830",
+    "max_location": "pp_office",
+    "lat": null,
+    "long": null,
+    "lessons": 6
+  },
+  {
+    "student_id": "51808",
+    "max_location": "online",
+    "lat": 40.783488,
+    "long": -73.457682,
+    "lessons": 10
+  },
+  {
+    "student_id": "30451",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 9
+  },
+  {
+    "student_id": "44955",
+    "max_location": "at_client",
+    "lat": 40.803035,
+    "long": -73.627175,
+    "lessons": 4
+  },
+  {
+    "student_id": "50880",
+    "max_location": "online",
+    "lat": 40.797394,
+    "long": -73.525753,
+    "lessons": 8
+  },
+  {
+    "student_id": "40292",
+    "max_location": "at_client",
+    "lat": 40.778431,
+    "long": -73.640675,
+    "lessons": 20
+  },
+  {
+    "student_id": "46588",
+    "max_location": "online",
+    "lat": 40.80622,
+    "long": -73.69949,
+    "lessons": 8
+  },
+  {
+    "student_id": "45955",
+    "max_location": "online",
+    "lat": 40.79975,
+    "long": -73.630418,
+    "lessons": 8
+  },
+  {
+    "student_id": "48886",
+    "max_location": "online",
+    "lat": 40.846325,
+    "long": -73.702525,
+    "lessons": 8
+  },
+  {
+    "student_id": "40004",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 10
+  },
+  {
+    "student_id": "39559",
+    "max_location": "online",
+    "lat": 40.804929,
+    "long": -73.61954,
+    "lessons": 8
+  },
+  {
+    "student_id": "45905",
+    "max_location": "pp_office",
+    "lat": 40.807385,
+    "long": -73.619609,
+    "lessons": 9
+  },
+  {
+    "student_id": "52056",
+    "max_location": "online",
+    "lat": 40.812529,
+    "long": -73.687719,
+    "lessons": 2
+  },
+  {
+    "student_id": "26111",
+    "max_location": "online",
+    "lat": 40.808159,
+    "long": -73.462607,
+    "lessons": 5
+  },
+  {
+    "student_id": "25104",
+    "max_location": "at_client",
+    "lat": 40.793137,
+    "long": -73.547345,
+    "lessons": 10
+  },
+  {
+    "student_id": "51456",
+    "max_location": "online",
+    "lat": 40.807144,
+    "long": -73.456485,
+    "lessons": 11
+  },
+  {
+    "student_id": "39637",
+    "max_location": "online",
+    "lat": 40.806697,
+    "long": -73.618988,
+    "lessons": 8
+  },
+  {
+    "student_id": "47056",
+    "max_location": "online",
+    "lat": 40.806491,
+    "long": -73.7011,
+    "lessons": 9
+  },
+  {
+    "student_id": "35318",
+    "max_location": "online",
+    "lat": 40.805037,
+    "long": -73.613928,
+    "lessons": 1
+  },
+  {
+    "student_id": "46435",
+    "max_location": "online",
+    "lat": 40.790218,
+    "long": -73.751049,
+    "lessons": 8
+  },
+  {
+    "student_id": "43719",
+    "max_location": "online",
+    "lat": 40.808159,
+    "long": -73.462607,
+    "lessons": 4
+  },
+  {
+    "student_id": "46531",
+    "max_location": "online",
+    "lat": 40.84019,
+    "long": -73.689605,
+    "lessons": 10
+  },
+  {
+    "student_id": "50399",
+    "max_location": "at_client",
+    "lat": 40.790978,
+    "long": -73.623335,
+    "lessons": 6
+  },
+  {
+    "student_id": "24994",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 6
+  },
+  {
+    "student_id": "48109",
+    "max_location": "online",
+    "lat": 40.795193,
+    "long": -73.665647,
+    "lessons": 9
+  },
+  {
+    "student_id": "45482",
+    "max_location": "online",
+    "lat": 40.79504,
+    "long": -73.456899,
+    "lessons": 8
+  },
+  {
+    "student_id": "40424",
+    "max_location": "online",
+    "lat": 40.833438,
+    "long": -73.683443,
+    "lessons": 16
+  },
+  {
+    "student_id": "49371",
+    "max_location": "at_client",
+    "lat": 40.790327,
+    "long": -73.449718,
+    "lessons": 6
+  },
+  {
+    "student_id": "52043",
+    "max_location": "online",
+    "lat": 40.647636,
+    "long": -73.557895,
+    "lessons": 6
+  },
+  {
+    "student_id": "50508",
+    "max_location": "at_client",
+    "lat": 40.782772,
+    "long": -73.465922,
+    "lessons": 8
+  },
+  {
+    "student_id": "53412",
+    "max_location": "online",
+    "lat": 40.657729,
+    "long": -73.465001,
+    "lessons": 11
+  },
+  {
+    "student_id": "46017",
+    "max_location": "online",
+    "lat": 40.793467,
+    "long": -73.66636,
+    "lessons": 13
+  },
+  {
+    "student_id": "31241",
+    "max_location": "online",
+    "lat": 40.781317,
+    "long": -73.554766,
+    "lessons": 4
+  },
+  {
+    "student_id": "49042",
+    "max_location": "pp_office",
+    "lat": 40.837594,
+    "long": -73.693007,
+    "lessons": 13
+  },
+  {
+    "student_id": "32826",
+    "max_location": "online",
+    "lat": 40.803004,
+    "long": -73.628555,
+    "lessons": 8
+  },
+  {
+    "student_id": "49800",
+    "max_location": "at_client",
+    "lat": 40.782921,
+    "long": -73.476647,
+    "lessons": 5
+  },
+  {
+    "student_id": "35022",
+    "max_location": "online",
+    "lat": 40.797442,
+    "long": -73.520162,
+    "lessons": 10
+  },
+  {
+    "student_id": "54295",
+    "max_location": "online",
+    "lat": 40.872412,
+    "long": -73.444332,
+    "lessons": 7
+  },
+  {
+    "student_id": "42242",
+    "max_location": "online",
+    "lat": 40.820868,
+    "long": -73.675626,
+    "lessons": 4
+  },
+  {
+    "student_id": "51207",
+    "max_location": "pp_office",
+    "lat": 40.799177,
+    "long": -73.688363,
+    "lessons": 9
+  },
+  {
+    "student_id": "53949",
+    "max_location": "at_client",
+    "lat": 40.80543,
+    "long": -73.702019,
+    "lessons": 8
+  },
+  {
+    "student_id": "50331",
+    "max_location": "online",
+    "lat": 40.803011,
+    "long": -73.467395,
+    "lessons": 12
+  },
+  {
+    "student_id": "52510",
+    "max_location": "pp_office",
+    "lat": 40.810481,
+    "long": -73.694065,
+    "lessons": 9
+  },
+  {
+    "student_id": "46419",
+    "max_location": "at_client",
+    "lat": 40.813118,
+    "long": -73.474868,
+    "lessons": 8
+  },
+  {
+    "student_id": "46418",
+    "max_location": "at_client",
+    "lat": 40.813118,
+    "long": -73.474868,
+    "lessons": 8
+  },
+  {
+    "student_id": "41218",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 7
+  },
+  {
+    "student_id": "49993",
+    "max_location": "online",
+    "lat": 40.802112,
+    "long": -73.618712,
+    "lessons": 13
+  },
+  {
+    "student_id": "51280",
+    "max_location": "at_client",
+    "lat": 40.795224,
+    "long": -73.70418,
+    "lessons": 7
+  },
+  {
+    "student_id": "50689",
+    "max_location": "at_client",
+    "lat": null,
+    "long": null,
+    "lessons": 5
+  },
+  {
+    "student_id": "49267",
+    "max_location": "at_client",
+    "lat": 40.790596,
+    "long": -73.630119,
+    "lessons": 6
+  },
+  {
+    "student_id": "53316",
+    "max_location": "online",
+    "lat": 40.831951,
+    "long": -73.700042,
+    "lessons": 8
+  },
+  {
+    "student_id": "54409",
+    "max_location": "at_client",
+    "lat": null,
+    "long": null,
+    "lessons": 7
+  },
+  {
+    "student_id": "52033",
+    "max_location": "online",
+    "lat": 40.80058,
+    "long": -73.611094,
+    "lessons": 5
+  },
+  {
+    "student_id": "38267",
+    "max_location": "at_client",
+    "lat": 40.761819,
+    "long": -73.70133,
+    "lessons": 4
+  },
+  {
+    "student_id": "51596",
+    "max_location": "pp_office",
+    "lat": 40.810826,
+    "long": -73.692455,
+    "lessons": 7
+  },
+  {
+    "student_id": "53334",
+    "max_location": "at_client",
+    "lat": 40.833988,
+    "long": -73.676477,
+    "lessons": 1
+  },
+  {
+    "student_id": "50625",
+    "max_location": "pp_office",
+    "lat": 40.803291,
+    "long": -73.62046,
+    "lessons": 9
+  },
+  {
+    "student_id": "50612",
+    "max_location": "at_client",
+    "lat": 40.81176,
+    "long": -73.669648,
+    "lessons": 6
+  },
+  {
+    "student_id": "53723",
+    "max_location": "pp_office",
+    "lat": 40.800706,
+    "long": -73.70572,
+    "lessons": 9
+  },
+  {
+    "student_id": "51593",
+    "max_location": "at_client",
+    "lat": 40.799252,
+    "long": -73.630303,
+    "lessons": 6
+  },
+  {
+    "student_id": "53934",
+    "max_location": "online",
+    "lat": 40.821809,
+    "long": -73.69995,
+    "lessons": 2
+  },
+  {
+    "student_id": "41679",
+    "max_location": "online",
+    "lat": 40.789883,
+    "long": -73.638605,
+    "lessons": 2
+  },
+  {
+    "student_id": "54632",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 3
+  },
+  {
+    "student_id": "53961",
+    "max_location": "online",
+    "lat": 40.829068,
+    "long": -73.498877,
+    "lessons": 14
+  },
+  {
+    "student_id": "51482",
+    "max_location": "pp_office",
+    "lat": 40.820344,
+    "long": -73.69195,
+    "lessons": 5
+  },
+  {
+    "student_id": "52311",
+    "max_location": "online",
+    "lat": 40.823833,
+    "long": -73.732478,
+    "lessons": 7
+  },
+  {
+    "student_id": "39724",
+    "max_location": "online",
+    "lat": 40.796934,
+    "long": -73.642537,
+    "lessons": 7
+  },
+  {
+    "student_id": "51209",
+    "max_location": "online",
+    "lat": 40.648613,
+    "long": -73.541169,
+    "lessons": 7
+  },
+  {
+    "student_id": "54606",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 5
+  },
+  {
+    "student_id": "51254",
+    "max_location": "online",
+    "lat": 40.822102,
+    "long": -73.701307,
+    "lessons": 6
+  },
+  {
+    "student_id": "52749",
+    "max_location": "pp_office",
+    "lat": 40.846997,
+    "long": -73.698387,
+    "lessons": 5
+  },
+  {
+    "student_id": "51759",
+    "max_location": "at_client",
+    "lat": 40.808603,
+    "long": -73.621633,
+    "lessons": 4
+  },
+  {
+    "student_id": "51598",
+    "max_location": "pp_office",
+    "lat": 40.801589,
+    "long": -73.641617,
+    "lessons": 6
+  },
+  {
+    "student_id": "38814",
+    "max_location": "at_client",
+    "lat": 40.852708,
+    "long": -73.719859,
+    "lessons": 5
+  },
+  {
+    "student_id": "49186",
+    "max_location": "at_client",
+    "lat": 40.802248,
+    "long": -73.485024,
+    "lessons": 4
+  },
+  {
+    "student_id": "54277",
+    "max_location": "online",
+    "lat": 40.641958,
+    "long": -73.520461,
+    "lessons": 5
+  },
+  {
+    "student_id": "51458",
+    "max_location": "pp_office",
+    "lat": 40.824392,
+    "long": -73.702226,
+    "lessons": 5
+  },
+  {
+    "student_id": "54873",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 6
+  },
+  {
+    "student_id": "47603",
+    "max_location": "pp_office",
+    "lat": 40.833308,
+    "long": -73.676568,
+    "lessons": 6
+  },
+  {
+    "student_id": "29940",
+    "max_location": "at_client",
+    "lat": 40.626533,
+    "long": -73.638375,
+    "lessons": 7
+  },
+  {
+    "student_id": "52669",
+    "max_location": "pp_office",
+    "lat": 40.81771,
+    "long": -73.678922,
+    "lessons": 6
+  },
+  {
+    "student_id": "50360",
+    "max_location": "online",
+    "lat": 40.773904,
+    "long": -73.634971,
+    "lessons": 5
+  },
+  {
+    "student_id": "49827",
+    "max_location": "at_client",
+    "lat": 40.655702,
+    "long": -73.529711,
+    "lessons": 4
+  },
+  {
+    "student_id": "51338",
+    "max_location": "pp_office",
+    "lat": 40.808001,
+    "long": -73.637654,
+    "lessons": 6
+  },
+  {
+    "student_id": "35024",
+    "max_location": "online",
+    "lat": 40.795289,
+    "long": -73.524396,
+    "lessons": 5
+  },
+  {
+    "student_id": "51805",
+    "max_location": "at_client",
+    "lat": 40.841181,
+    "long": -73.482032,
+    "lessons": 6
+  },
+  {
+    "student_id": "31242",
+    "max_location": "at_client",
+    "lat": 40.781317,
+    "long": -73.554766,
+    "lessons": 7
+  },
+  {
+    "student_id": "48178",
+    "max_location": "pp_office",
+    "lat": 40.817269,
+    "long": -73.521336,
+    "lessons": 5
+  },
+  {
+    "student_id": "54880",
+    "max_location": "online",
+    "lat": 40.648597,
+    "long": -73.546484,
+    "lessons": 2
+  },
+  {
+    "student_id": "35073",
+    "max_location": "at_client",
+    "lat": 40.819651,
+    "long": -73.519334,
+    "lessons": 3
+  },
+  {
+    "student_id": "53790",
+    "max_location": "online",
+    "lat": 40.824769,
+    "long": -73.70384,
+    "lessons": 6
+  },
+  {
+    "student_id": "53782",
+    "max_location": "online",
+    "lat": 40.795849,
+    "long": -73.752153,
+    "lessons": 5
+  },
+  {
+    "student_id": "51776",
+    "max_location": "at_client",
+    "lat": 40.788065,
+    "long": -73.747211,
+    "lessons": 5
+  },
+  {
+    "student_id": "47223",
+    "max_location": "online",
+    "lat": 40.788586,
+    "long": -73.47011,
+    "lessons": 1
+  },
+  {
+    "student_id": "20483",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 8
+  },
+  {
+    "student_id": "55464",
+    "max_location": "at_client",
+    "lat": 40.791037,
+    "long": -73.712272,
+    "lessons": 7
+  },
+  {
+    "student_id": "36754",
+    "max_location": "online",
+    "lat": 40.825929,
+    "long": -73.699008,
+    "lessons": 14
+  },
+  {
+    "student_id": "54375",
+    "max_location": "pp_office",
+    "lat": 40.824822,
+    "long": -73.675534,
+    "lessons": 4
+  },
+  {
+    "student_id": "53915",
+    "max_location": "at_client",
+    "lat": null,
+    "long": null,
+    "lessons": 5
+  },
+  {
+    "student_id": "52101",
+    "max_location": "at_client",
+    "lat": 40.786467,
+    "long": -73.731857,
+    "lessons": 4
+  },
+  {
+    "student_id": "51555",
+    "max_location": "at_client",
+    "lat": 40.767248,
+    "long": -73.466428,
+    "lessons": 5
+  },
+  {
+    "student_id": "48878",
+    "max_location": "at_client",
+    "lat": 40.835552,
+    "long": -73.500189,
+    "lessons": 6
+  },
+  {
+    "student_id": "53564",
+    "max_location": "online",
+    "lat": 40.782058,
+    "long": -73.738431,
+    "lessons": 6
+  },
+  {
+    "student_id": "53887",
+    "max_location": "pp_office",
+    "lat": 40.807537,
+    "long": -73.690087,
+    "lessons": 5
+  },
+  {
+    "student_id": "52809",
+    "max_location": "at_client",
+    "lat": 40.833558,
+    "long": -73.607764,
+    "lessons": 3
+  },
+  {
+    "student_id": "53414",
+    "max_location": "pp_office",
+    "lat": 40.79152,
+    "long": -73.738569,
+    "lessons": 4
+  },
+  {
+    "student_id": "37286",
+    "max_location": "pp_office",
+    "lat": 40.824437,
+    "long": -73.703605,
+    "lessons": 4
+  },
+  {
+    "student_id": "53702",
+    "max_location": "online",
+    "lat": 40.904183,
+    "long": -73.422947,
+    "lessons": 5
+  },
+  {
+    "student_id": "53928",
+    "max_location": "pp_office",
+    "lat": null,
+    "long": null,
+    "lessons": 5
+  },
+  {
+    "student_id": "48809",
+    "max_location": "pp_office",
+    "lat": 40.803294,
+    "long": -73.67981,
+    "lessons": 6
+  },
+  {
+    "student_id": "53984",
+    "max_location": "pp_office",
+    "lat": 40.806697,
+    "long": -73.681627,
+    "lessons": 6
+  },
+  {
+    "student_id": "53837",
+    "max_location": "online",
+    "lat": 40.642578,
+    "long": -73.531045,
+    "lessons": 1
+  },
+  {
+    "student_id": "53338",
+    "max_location": "at_client",
+    "lat": 40.796532,
+    "long": -73.635845,
+    "lessons": 4
+  },
+  {
+    "student_id": "40777",
+    "max_location": "at_client",
+    "lat": 40.802945,
+    "long": -73.6312,
+    "lessons": 6
+  },
+  {
+    "student_id": "52267",
+    "max_location": "at_client",
+    "lat": 40.804431,
+    "long": -73.376143,
+    "lessons": 3
+  },
+  {
+    "student_id": "51218",
+    "max_location": "pp_office",
+    "lat": 40.857031,
+    "long": -73.715468,
+    "lessons": 4
+  },
+  {
+    "student_id": "47369",
+    "max_location": "pp_office",
+    "lat": 40.847636,
+    "long": -73.711858,
+    "lessons": 4
+  },
+  {
+    "student_id": "51521",
+    "max_location": "at_client",
+    "lat": 40.772398,
+    "long": -73.637869,
+    "lessons": 6
+  },
+  {
+    "student_id": "51556",
+    "max_location": "at_client",
+    "lat": 40.809236,
+    "long": -73.618436,
+    "lessons": 6
+  },
+  {
+    "student_id": "43770",
+    "max_location": "pp_office",
+    "lat": 40.848155,
+    "long": -73.70533,
+    "lessons": 5
+  },
+  {
+    "student_id": "53942",
+    "max_location": "pp_office",
+    "lat": null,
+    "long": null,
+    "lessons": 4
+  },
+  {
+    "student_id": "53621",
+    "max_location": "pp_office",
+    "lat": 40.84959,
+    "long": -73.70487,
+    "lessons": 4
+  },
+  {
+    "student_id": "52881",
+    "max_location": "at_client",
+    "lat": 40.793629,
+    "long": -73.635086,
+    "lessons": 6
+  },
+  {
+    "student_id": "53857",
+    "max_location": "at_client",
+    "lat": 40.788005,
+    "long": -73.511856,
+    "lessons": 1
+  },
+  {
+    "student_id": "53404",
+    "max_location": "pp_office",
+    "lat": 40.827991,
+    "long": -73.677741,
+    "lessons": 5
+  },
+  {
+    "student_id": "51560",
+    "max_location": "at_client",
+    "lat": 40.792265,
+    "long": -73.630602,
+    "lessons": 5
+  },
+  {
+    "student_id": "53803",
+    "max_location": "at_client",
+    "lat": 40.897473,
+    "long": -73.409227,
+    "lessons": 4
+  },
+  {
+    "student_id": "50480",
+    "max_location": "at_client",
+    "lat": 40.831853,
+    "long": -73.510797,
+    "lessons": 5
+  },
+  {
+    "student_id": "51037",
+    "max_location": "at_client",
+    "lat": 40.799029,
+    "long": -73.627175,
+    "lessons": 4
+  },
+  {
+    "student_id": "54641",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 6
+  },
+  {
+    "student_id": "22641",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 4
+  },
+  {
+    "student_id": "52289",
+    "max_location": "pp_office",
+    "lat": 40.827197,
+    "long": -73.693563,
+    "lessons": 4
+  },
+  {
+    "student_id": "50979",
+    "max_location": "at_client",
+    "lat": 40.784831,
+    "long": -73.408191,
+    "lessons": 4
+  },
+  {
+    "student_id": "54290",
+    "max_location": "online",
+    "lat": 40.652916,
+    "long": -73.529665,
+    "lessons": 5
+  },
+  {
+    "student_id": "52550",
+    "max_location": "at_client",
+    "lat": 40.78837,
+    "long": -73.432224,
+    "lessons": 4
+  },
+  {
+    "student_id": "51528",
+    "max_location": "at_client",
+    "lat": 40.802132,
+    "long": -73.483183,
+    "lessons": 5
+  },
+  {
+    "student_id": "52069",
+    "max_location": "pp_office",
+    "lat": 40.834808,
+    "long": -73.690895,
+    "lessons": 5
+  },
+  {
+    "student_id": "52493",
+    "max_location": "online",
+    "lat": 40.733654,
+    "long": -73.620621,
+    "lessons": 5
+  },
+  {
+    "student_id": "30733",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 5
+  },
+  {
+    "student_id": "15137",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 6
+  },
+  {
+    "student_id": "49185",
+    "max_location": "at_client",
+    "lat": 40.802248,
+    "long": -73.485024,
+    "lessons": 5
+  },
+  {
+    "student_id": "46929",
+    "max_location": "at_client",
+    "lat": 40.824204,
+    "long": -73.547121,
+    "lessons": 4
+  },
+  {
+    "student_id": "45624",
+    "max_location": "online",
+    "lat": 40.827954,
+    "long": -73.507886,
+    "lessons": 1
+  },
+  {
+    "student_id": "54241",
+    "max_location": "online",
+    "lat": 40.813633,
+    "long": -73.46293,
+    "lessons": 5
+  },
+  {
+    "student_id": "54393",
+    "max_location": "pp_office",
+    "lat": 40.810145,
+    "long": -73.47572,
+    "lessons": 5
+  },
+  {
+    "student_id": "50262",
+    "max_location": "online",
+    "lat": 40.786213,
+    "long": -73.631108,
+    "lessons": 3
+  },
+  {
+    "student_id": "53728",
+    "max_location": "online",
+    "lat": 40.924681,
+    "long": -73.117303,
+    "lessons": 4
+  },
+  {
+    "student_id": "46403",
+    "max_location": "online",
+    "lat": 40.811712,
+    "long": -73.692455,
+    "lessons": 8
+  },
+  {
+    "student_id": "16734",
+    "max_location": "online",
+    "lat": 40.804444,
+    "long": -73.664083,
+    "lessons": 4
+  },
+  {
+    "student_id": "52099",
+    "max_location": "online",
+    "lat": 40.801973,
+    "long": -73.6444,
+    "lessons": 4
+  },
+  {
+    "student_id": "49855",
+    "max_location": "at_client",
+    "lat": 40.801804,
+    "long": -73.717582,
+    "lessons": 3
+  },
+  {
+    "student_id": "54479",
+    "max_location": "pp_office",
+    "lat": 40.825567,
+    "long": -73.701697,
+    "lessons": 4
+  },
+  {
+    "student_id": "46888",
+    "max_location": "pp_office",
+    "lat": 40.794891,
+    "long": -73.705606,
+    "lessons": 5
+  },
+  {
+    "student_id": "33317",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 3
+  },
+  {
+    "student_id": "52054",
+    "max_location": "pp_office",
+    "lat": 40.809274,
+    "long": -73.683466,
+    "lessons": 4
+  },
+  {
+    "student_id": "48528",
+    "max_location": "at_client",
+    "lat": 40.806475,
+    "long": -73.622093,
+    "lessons": 4
+  },
+  {
+    "student_id": "50673",
+    "max_location": "online",
+    "lat": 40.81289,
+    "long": -73.480458,
+    "lessons": 5
+  },
+  {
+    "student_id": "54456",
+    "max_location": "online",
+    "lat": 40.838691,
+    "long": -73.697927,
+    "lessons": 4
+  },
+  {
+    "student_id": "55062",
+    "max_location": "pp_office",
+    "lat": 40.797262,
+    "long": -73.675005,
+    "lessons": 4
+  },
+  {
+    "student_id": "55401",
+    "max_location": "pp_office",
+    "lat": 40.791023,
+    "long": -73.627888,
+    "lessons": 4
+  },
+  {
+    "student_id": "55447",
+    "max_location": "at_client",
+    "lat": 40.73015,
+    "long": -73.652931,
+    "lessons": 4
+  },
+  {
+    "student_id": "54408",
+    "max_location": "online",
+    "lat": 40.64237,
+    "long": -73.547335,
+    "lessons": 3
+  },
+  {
+    "student_id": "53809",
+    "max_location": "online",
+    "lat": 40.796535,
+    "long": -73.711514,
+    "lessons": 5
+  },
+  {
+    "student_id": "54035",
+    "max_location": "online",
+    "lat": 40.6754,
+    "long": -73.549359,
+    "lessons": 3
+  },
+  {
+    "student_id": "54627",
+    "max_location": "pp_office",
+    "lat": null,
+    "long": null,
+    "lessons": 4
+  },
+  {
+    "student_id": "55630",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 4
+  },
+  {
+    "student_id": "52242",
+    "max_location": "pp_office",
+    "lat": 40.84682,
+    "long": -73.700088,
+    "lessons": 2
+  },
+  {
+    "student_id": "54951",
+    "max_location": "online",
+    "lat": 40.846553,
+    "long": -73.693817,
+    "lessons": 4
+  },
+  {
+    "student_id": "55605",
+    "max_location": "online",
+    "lat": 40.787861,
+    "long": -73.610248,
+    "lessons": 7
+  },
+  {
+    "student_id": "51549",
+    "max_location": "pp_office",
+    "lat": 40.84682,
+    "long": -73.700088,
+    "lessons": 2
+  },
+  {
+    "student_id": "55073",
+    "max_location": "online",
+    "lat": 40.819726,
+    "long": -73.497243,
+    "lessons": 5
+  },
+  {
+    "student_id": "55051",
+    "max_location": "online",
+    "lat": 40.794819,
+    "long": -73.706709,
+    "lessons": 4
+  },
+  {
+    "student_id": "53762",
+    "max_location": "at_client",
+    "lat": 40.785442,
+    "long": -73.411133,
+    "lessons": 2
+  },
+  {
+    "student_id": "27734",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 4
+  },
+  {
+    "student_id": "55577",
+    "max_location": "online",
+    "lat": 40.828543,
+    "long": -73.632051,
+    "lessons": 4
+  },
+  {
+    "student_id": "42434",
+    "max_location": "online",
+    "lat": 40.830223,
+    "long": -73.49179,
+    "lessons": 5
+  },
+  {
+    "student_id": "51428",
+    "max_location": "pp_office",
+    "lat": 40.797808,
+    "long": -73.682567,
+    "lessons": 3
+  },
+  {
+    "student_id": "46118",
+    "max_location": "at_client",
+    "lat": 40.827328,
+    "long": -73.675028,
+    "lessons": 4
+  },
+  {
+    "student_id": "54584",
+    "max_location": "pp_office",
+    "lat": null,
+    "long": null,
+    "lessons": 4
+  },
+  {
+    "student_id": "54930",
+    "max_location": "online",
+    "lat": 40.801964,
+    "long": -73.670235,
+    "lessons": 2
+  },
+  {
+    "student_id": "33521",
+    "max_location": "at_client",
+    "lat": 40.803235,
+    "long": -73.619149,
+    "lessons": 2
+  },
+  {
+    "student_id": "53660",
+    "max_location": "online",
+    "lat": 40.82156,
+    "long": -73.689972,
+    "lessons": 2
+  },
+  {
+    "student_id": "16686",
+    "max_location": "at_client",
+    "lat": null,
+    "long": null,
+    "lessons": 3
+  },
+  {
+    "student_id": "53696",
+    "max_location": "at_client",
+    "lat": 40.780048,
+    "long": -73.469926,
+    "lessons": 2
+  },
+  {
+    "student_id": "53786",
+    "max_location": "online",
+    "lat": 40.798126,
+    "long": -73.694938,
+    "lessons": 6
+  },
+  {
+    "student_id": "55722",
+    "max_location": "pp_office",
+    "lat": 40.846401,
+    "long": -73.703582,
+    "lessons": 3
+  },
+  {
+    "student_id": "55721",
+    "max_location": "pp_office",
+    "lat": 40.846401,
+    "long": -73.703582,
+    "lessons": 3
+  },
+  {
+    "student_id": "46327",
+    "max_location": "pp_office",
+    "lat": 40.791835,
+    "long": -73.674108,
+    "lessons": 2
+  },
+  {
+    "student_id": "51563",
+    "max_location": "online",
+    "lat": 40.874279,
+    "long": -73.454414,
+    "lessons": 1
+  },
+  {
+    "student_id": "25993",
+    "max_location": "online",
+    "lat": 40.812869,
+    "long": -73.683949,
+    "lessons": 3
+  },
+  {
+    "student_id": "54866",
+    "max_location": "online",
+    "lat": 40.826841,
+    "long": -73.693467,
+    "lessons": 3
+  },
+  {
+    "student_id": "53772",
+    "max_location": "online",
+    "lat": 40.799841,
+    "long": -73.632902,
+    "lessons": 3
+  },
+  {
+    "student_id": "37225",
+    "max_location": "pp_office",
+    "lat": 40.835787,
+    "long": -73.68411,
+    "lessons": 2
+  },
+  {
+    "student_id": "55707",
+    "max_location": "online",
+    "lat": 40.813585,
+    "long": -73.456577,
+    "lessons": 3
+  },
+  {
+    "student_id": "55524",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 4
+  },
+  {
+    "student_id": "27811",
+    "max_location": "online",
+    "lat": 40.831513,
+    "long": -73.676936,
+    "lessons": 5
+  },
+  {
+    "student_id": "19114",
+    "max_location": "online",
+    "lat": 40.804283,
+    "long": -73.63166,
+    "lessons": 2
+  },
+  {
+    "student_id": "31446",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 4
+  },
+  {
+    "student_id": "54562",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 3
+  },
+  {
+    "student_id": "51201",
+    "max_location": "pp_office",
+    "lat": null,
+    "long": null,
+    "lessons": 2
+  },
+  {
+    "student_id": "48810",
+    "max_location": "online",
+    "lat": 40.767892,
+    "long": -73.745515,
+    "lessons": 1
+  },
+  {
+    "student_id": "54991",
+    "max_location": "online",
+    "lat": 40.803741,
+    "long": -73.469224,
+    "lessons": 3
+  },
+  {
+    "student_id": "56733",
+    "max_location": "online",
+    "lat": 40.777483,
+    "long": -73.618896,
+    "lessons": 1
+  },
+  {
+    "student_id": "55278",
+    "max_location": "online",
+    "lat": 40.831827,
+    "long": -73.67804,
+    "lessons": 3
+  },
+  {
+    "student_id": "41295",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 2
+  },
+  {
+    "student_id": "54586",
+    "max_location": "online",
+    "lat": 40.817458,
+    "long": -73.677603,
+    "lessons": 2
+  },
+  {
+    "student_id": "54587",
+    "max_location": "online",
+    "lat": 40.817458,
+    "long": -73.677603,
+    "lessons": 2
+  },
+  {
+    "student_id": "50714",
+    "max_location": "online",
+    "lat": 40.835859,
+    "long": -73.751233,
+    "lessons": 2
+  },
+  {
+    "student_id": "54859",
+    "max_location": "pp_office",
+    "lat": 40.843866,
+    "long": -73.718801,
+    "lessons": 2
+  },
+  {
+    "student_id": "39152",
+    "max_location": "online",
+    "lat": 40.821711,
+    "long": -73.700203,
+    "lessons": 1
+  },
+  {
+    "student_id": "49273",
+    "max_location": "online",
+    "lat": 40.791293,
+    "long": -73.623381,
+    "lessons": 2
+  },
+  {
+    "student_id": "55026",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 2
+  },
+  {
+    "student_id": "44049",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 3
+  },
+  {
+    "student_id": "54665",
+    "max_location": "online",
+    "lat": 40.845337,
+    "long": -73.705008,
+    "lessons": 2
+  },
+  {
+    "student_id": "56890",
+    "max_location": "online",
+    "lat": 40.8004,
+    "long": -73.677649,
+    "lessons": 4
+  },
+  {
+    "student_id": "57060",
+    "max_location": "online",
+    "lat": 40.798403,
+    "long": -73.68142,
+    "lessons": 2
+  },
+  {
+    "student_id": "55399",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 1
+  },
+  {
+    "student_id": "23367",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 4
+  },
+  {
+    "student_id": "54462",
+    "max_location": "pp_office",
+    "lat": 40.819862,
+    "long": -73.681475,
+    "lessons": 1
+  },
+  {
+    "student_id": "55999",
+    "max_location": "online",
+    "lat": 40.388439,
+    "long": -74.356113,
+    "lessons": 1
+  },
+  {
+    "student_id": "54208",
+    "max_location": "online",
+    "lat": 40.839139,
+    "long": -73.710341,
+    "lessons": 1
+  },
+  {
+    "student_id": "55461",
+    "max_location": "pp_office",
+    "lat": null,
+    "long": null,
+    "lessons": 1
+  },
+  {
+    "student_id": "37814",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 1
+  },
+  {
+    "student_id": "41790",
+    "max_location": "online",
+    "lat": 40.678788,
+    "long": -73.65277,
+    "lessons": 1
+  },
+  {
+    "student_id": "57089",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 2
+  },
+  {
+    "student_id": "55314",
+    "max_location": "at_client",
+    "lat": null,
+    "long": null,
+    "lessons": 1
+  },
+  {
+    "student_id": "54394",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 1
+  },
+  {
+    "student_id": "57986",
+    "max_location": "online",
+    "lat": 40.814845,
+    "long": -73.737994,
+    "lessons": 1
+  },
+  {
+    "student_id": "49994",
+    "max_location": "online",
+    "lat": null,
+    "long": null,
+    "lessons": 1
+  },
+  {
+    "student_id": "52645",
+    "max_location": "pp_office",
+    "lat": 40.832563,
+    "long": -73.681925,
+    "lessons": 1
+  },
+  {
+    "student_id": "47483",
+    "max_location": "online",
+    "lat": 40.806535,
+    "long": -73.621449,
+    "lessons": 1
+  },
+  {
+    "student_id": "58152",
+    "max_location": "online",
+    "lat": 40.888935,
+    "long": -73.444344,
+    "lessons": 1
+  }
+]
