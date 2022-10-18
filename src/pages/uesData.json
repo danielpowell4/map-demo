@@ -1,0 +1,1594 @@
+[
+  {
+    "student_id": "45792",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.717549,
+    "long": -74.010205,
+    "revenue": "840.0",
+    "sessions": 15
+  },
+  {
+    "student_id": "45587",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.777391,
+    "long": -73.958093,
+    "revenue": "1764.0",
+    "sessions": 27
+  },
+  {
+    "student_id": "37938",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.775682,
+    "long": -73.955843,
+    "revenue": "2184.0",
+    "sessions": 31
+  },
+  {
+    "student_id": "45581",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.709055,
+    "long": -74.017284,
+    "revenue": "952.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "45641",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.781942,
+    "long": -73.950631,
+    "revenue": "1848.0",
+    "sessions": 37
+  },
+  {
+    "student_id": "44110",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.733751,
+    "long": -73.991801,
+    "revenue": "2800.0",
+    "sessions": 42
+  },
+  {
+    "student_id": "43737",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.767462,
+    "long": -73.954037,
+    "revenue": "1792.0",
+    "sessions": 33
+  },
+  {
+    "student_id": "45647",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.763238,
+    "long": -73.963141,
+    "revenue": "2212.0",
+    "sessions": 32
+  },
+  {
+    "student_id": "47512",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.728584,
+    "long": -73.995106,
+    "revenue": "56.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "47387",
+    "semesters": "Fall Classes 2021, Fall Classes 2022, Spring Classes 2022",
+    "lat": 40.766825,
+    "long": -73.959278,
+    "revenue": "1856.0",
+    "sessions": 26
+  },
+  {
+    "student_id": "47097",
+    "semesters": "Fall Classes 2021, Fall Classes 2022",
+    "lat": 40.781764,
+    "long": -73.958585,
+    "revenue": "1704.0",
+    "sessions": 23
+  },
+  {
+    "student_id": "48173",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.77282,
+    "long": -73.94708,
+    "revenue": "56.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "47037",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.773735,
+    "long": -73.956532,
+    "revenue": "56.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "47399",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.768088,
+    "long": -73.960091,
+    "revenue": "392.0",
+    "sessions": 7
+  },
+  {
+    "student_id": "33333",
+    "semesters": "Fall Classes 2021, Fall Classes 2022, Spring Classes 2022",
+    "lat": 40.776099,
+    "long": -73.944343,
+    "revenue": "4012.0",
+    "sessions": 47
+  },
+  {
+    "student_id": "45979",
+    "semesters": "Fall Classes 2021, Spring 2022, Spring Classes 2022",
+    "lat": 40.775998,
+    "long": -73.963796,
+    "revenue": "2192.67",
+    "sessions": 26
+  },
+  {
+    "student_id": "45850",
+    "semesters": "Fall Classes 2021, Fall Classes 2022, Spring Classes 2022",
+    "lat": 40.73848,
+    "long": -73.979918,
+    "revenue": "3956.0",
+    "sessions": 46
+  },
+  {
+    "student_id": "43900",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.717549,
+    "long": -74.010205,
+    "revenue": "1260.0",
+    "sessions": 15
+  },
+  {
+    "student_id": "45367",
+    "semesters": "Fall Classes 2021, Fall Classes 2022, Spring Classes 2022",
+    "lat": 40.772919,
+    "long": -73.95456,
+    "revenue": "4180.0",
+    "sessions": 50
+  },
+  {
+    "student_id": "43808",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.763323,
+    "long": -73.964497,
+    "revenue": "1008.0",
+    "sessions": 12
+  },
+  {
+    "student_id": "45560",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.778848,
+    "long": -73.948283,
+    "revenue": "1428.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "45639",
+    "semesters": "Fall Classes 2021, Fall Classes 2022, Spring Classes 2022",
+    "lat": 40.774333,
+    "long": -73.951917,
+    "revenue": "4180.0",
+    "sessions": 51
+  },
+  {
+    "student_id": "48443",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.778058,
+    "long": -73.953766,
+    "revenue": "1260.0",
+    "sessions": 15
+  },
+  {
+    "student_id": "48446",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.776454,
+    "long": -73.958828,
+    "revenue": "1428.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "48523",
+    "semesters": "Fall Classes 2021, Fall Classes 2022, Spring Classes 2022",
+    "lat": 40.788094,
+    "long": -73.978657,
+    "revenue": "2488.0",
+    "sessions": 31
+  },
+  {
+    "student_id": "48524",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.788094,
+    "long": -73.978657,
+    "revenue": "1344.0",
+    "sessions": 18
+  },
+  {
+    "student_id": "45700",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.771745,
+    "long": -73.950829,
+    "revenue": "2772.0",
+    "sessions": 33
+  },
+  {
+    "student_id": "46081",
+    "semesters": "Fall Classes 2021",
+    "lat": null,
+    "long": null,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "46488",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.779644,
+    "long": -73.959287,
+    "revenue": "2520.0",
+    "sessions": 30
+  },
+  {
+    "student_id": "46672",
+    "semesters": "Fall Classes 2021",
+    "lat": null,
+    "long": null,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "48401",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.713417,
+    "long": -74.011931,
+    "revenue": "448.0",
+    "sessions": 4
+  },
+  {
+    "student_id": "33112",
+    "semesters": "Fall Classes 2021",
+    "lat": null,
+    "long": null,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "42342",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.811115,
+    "long": -73.94119,
+    "revenue": "1344.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "45585",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.777391,
+    "long": -73.958093,
+    "revenue": "3360.0",
+    "sessions": 30
+  },
+  {
+    "student_id": "45821",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.775416,
+    "long": -73.958989,
+    "revenue": "3248.0",
+    "sessions": 31
+  },
+  {
+    "student_id": "27545",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.781924,
+    "long": -73.948335,
+    "revenue": "3886.4",
+    "sessions": 33
+  },
+  {
+    "student_id": "46455",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.743173,
+    "long": -73.984615,
+    "revenue": "2520.0",
+    "sessions": 30
+  },
+  {
+    "student_id": "47578",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.804042,
+    "long": -73.949908,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "48708",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.778149,
+    "long": -73.945121,
+    "revenue": "1596.0",
+    "sessions": 19
+  },
+  {
+    "student_id": "45948",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.758162,
+    "long": -73.961928,
+    "revenue": "2436.0",
+    "sessions": 29
+  },
+  {
+    "student_id": "46132",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.791139,
+    "long": -73.940598,
+    "revenue": "1092.0",
+    "sessions": 13
+  },
+  {
+    "student_id": "45578",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.709055,
+    "long": -74.017284,
+    "revenue": "1428.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "32514",
+    "semesters": "Fall Classes 2021, Spring Classes 2022",
+    "lat": 40.776635,
+    "long": -73.948175,
+    "revenue": "2772.0",
+    "sessions": 33
+  },
+  {
+    "student_id": "40717",
+    "semesters": "Fall Classes 2021",
+    "lat": 40.779848,
+    "long": -73.954923,
+    "revenue": "84.0",
+    "sessions": 2
+  },
+  {
+    "student_id": "45381",
+    "semesters": "Fall Classes 2021, Summer Classes 2022",
+    "lat": 40.767073,
+    "long": -73.958795,
+    "revenue": "1934.63",
+    "sessions": 23
+  },
+  {
+    "student_id": "46086",
+    "semesters": "Fall Classes 2021",
+    "lat": null,
+    "long": null,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "52144",
+    "semesters": "Fall Classes 2022, Summer Classes 2022",
+    "lat": 40.773302,
+    "long": -73.953298,
+    "revenue": "1856.0",
+    "sessions": 24
+  },
+  {
+    "student_id": "53173",
+    "semesters": "Fall Camps 2022, Fall Classes 2022, Summer Classes 2022",
+    "lat": 40.773201,
+    "long": -73.949899,
+    "revenue": "1964.0",
+    "sessions": 23
+  },
+  {
+    "student_id": "53441",
+    "semesters": "Summer Classes 2022",
+    "lat": 40.773319,
+    "long": -73.951669,
+    "revenue": "224.0",
+    "sessions": 4
+  },
+  {
+    "student_id": "53092",
+    "semesters": "Summer Classes 2022",
+    "lat": 40.778516,
+    "long": -73.951732,
+    "revenue": "56.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "53699",
+    "semesters": "Summer Classes 2022",
+    "lat": 40.783953,
+    "long": -73.951932,
+    "revenue": "56.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "52361",
+    "semesters": "Summer Classes 2022",
+    "lat": 40.675515,
+    "long": -73.911641,
+    "revenue": "675.0",
+    "sessions": 8
+  },
+  {
+    "student_id": "51063",
+    "semesters": "Fall Classes 2022, Spring Classes 2022, Summer Classes 2022",
+    "lat": 40.65391,
+    "long": -73.934281,
+    "revenue": "2755.0",
+    "sessions": 35
+  },
+  {
+    "student_id": "52041",
+    "semesters": "Summer Classes 2022",
+    "lat": 40.835189,
+    "long": -73.94309,
+    "revenue": "675.0",
+    "sessions": 8
+  },
+  {
+    "student_id": "47574",
+    "semesters": "Summer Classes 2022",
+    "lat": 40.679909,
+    "long": -73.996426,
+    "revenue": "675.0",
+    "sessions": 8
+  },
+  {
+    "student_id": "52667",
+    "semesters": "Summer Classes 2022",
+    "lat": 40.768885,
+    "long": -73.960822,
+    "revenue": "84.38",
+    "sessions": 1
+  },
+  {
+    "student_id": "52652",
+    "semesters": "Summer Classes 2022",
+    "lat": 40.846484,
+    "long": -73.891498,
+    "revenue": "675.0",
+    "sessions": 8
+  },
+  {
+    "student_id": "49752",
+    "semesters": "Summer Classes 2022",
+    "lat": 40.757031,
+    "long": -73.877865,
+    "revenue": "895.0",
+    "sessions": 8
+  },
+  {
+    "student_id": "49158",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.733751,
+    "long": -73.991801,
+    "revenue": "784.0",
+    "sessions": 14
+  },
+  {
+    "student_id": "50620",
+    "semesters": "Spring Classes 2022",
+    "lat": 42.980438,
+    "long": -70.94783,
+    "revenue": "560.0",
+    "sessions": 13
+  },
+  {
+    "student_id": "49384",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.781362,
+    "long": -73.948864,
+    "revenue": "896.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "48101",
+    "semesters": "Fall Classes 2022, Spring Classes 2022",
+    "lat": 40.811115,
+    "long": -73.94119,
+    "revenue": "1200.0",
+    "sessions": 14
+  },
+  {
+    "student_id": "49733",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.811115,
+    "long": -73.94119,
+    "revenue": "784.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "49801",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.780559,
+    "long": -73.954473,
+    "revenue": "455.0",
+    "sessions": 13
+  },
+  {
+    "student_id": "52437",
+    "semesters": "Fall Classes 2022, Spring Classes 2022, Summer Camps 2022",
+    "lat": 40.773986,
+    "long": -73.948995,
+    "revenue": "2754.0",
+    "sessions": 24
+  },
+  {
+    "student_id": "49790",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.771696,
+    "long": -73.951825,
+    "revenue": "56.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "51080",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.779267,
+    "long": -73.95961,
+    "revenue": "448.0",
+    "sessions": 9
+  },
+  {
+    "student_id": "49939",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.749151,
+    "long": -73.973809,
+    "revenue": "56.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "49988",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.779587,
+    "long": -73.953089,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "51795",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.75481,
+    "long": -73.969667,
+    "revenue": "336.0",
+    "sessions": 4
+  },
+  {
+    "student_id": "37980",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.738437,
+    "long": -73.988633,
+    "revenue": "5.6",
+    "sessions": 1
+  },
+  {
+    "student_id": "48962",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.738437,
+    "long": -73.988633,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "49965",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.763389,
+    "long": -73.959625,
+    "revenue": "1008.0",
+    "sessions": 12
+  },
+  {
+    "student_id": "51174",
+    "semesters": "Fall Classes 2022, Spring Classes 2022, Summer Camps 2022",
+    "lat": 40.776283,
+    "long": -73.956445,
+    "revenue": "3370.0",
+    "sessions": 29
+  },
+  {
+    "student_id": "49188",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.767909,
+    "long": -73.953509,
+    "revenue": "1428.0",
+    "sessions": 18
+  },
+  {
+    "student_id": "48952",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.775313,
+    "long": -73.9462,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "48831",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.779073,
+    "long": -73.957175,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "52435",
+    "semesters": "Fall Classes 2022, Spring Classes 2022, Summer Camps 2022",
+    "lat": 40.773986,
+    "long": -73.948995,
+    "revenue": "3592.0",
+    "sessions": 29
+  },
+  {
+    "student_id": "48572",
+    "semesters": "Fall Classes 2021, Spring Classes 2022, Summer Camps 2022",
+    "lat": 40.777223,
+    "long": -73.954674,
+    "revenue": "2802.0",
+    "sessions": 23
+  },
+  {
+    "student_id": "50773",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.784465,
+    "long": -73.943369,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "48967",
+    "semesters": "Fall Classes 2022, Spring Classes 2022",
+    "lat": 40.774332,
+    "long": -73.945947,
+    "revenue": "2752.0",
+    "sessions": 32
+  },
+  {
+    "student_id": "51069",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.778999,
+    "long": -73.953618,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "51771",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.743988,
+    "long": -73.979084,
+    "revenue": "504.0",
+    "sessions": 6
+  },
+  {
+    "student_id": "49031",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.778513,
+    "long": -73.956819,
+    "revenue": "168.0",
+    "sessions": 2
+  },
+  {
+    "student_id": "50098",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.783988,
+    "long": -73.95295,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "50699",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.780343,
+    "long": -73.947266,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "51007",
+    "semesters": "Spring Classes 2022",
+    "lat": 42.471779,
+    "long": -70.975507,
+    "revenue": "840.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "48943",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.772984,
+    "long": -73.957834,
+    "revenue": "1344.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "48959",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.839815,
+    "long": -73.859217,
+    "revenue": "1344.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "49645",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.805892,
+    "long": -73.942389,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "51770",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.743988,
+    "long": -73.979084,
+    "revenue": "504.0",
+    "sessions": 6
+  },
+  {
+    "student_id": "52176",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.782894,
+    "long": -73.980085,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "49838",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.764856,
+    "long": -73.967283,
+    "revenue": "1568.0",
+    "sessions": 14
+  },
+  {
+    "student_id": "50066",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.764856,
+    "long": -73.967283,
+    "revenue": "1456.0",
+    "sessions": 13
+  },
+  {
+    "student_id": "52368",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.774752,
+    "long": -73.956107,
+    "revenue": "3096.0",
+    "sessions": 12
+  },
+  {
+    "student_id": "52408",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.822566,
+    "long": -73.828076,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "50322",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.803213,
+    "long": -73.952582,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "52714",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.780002,
+    "long": -73.975519,
+    "revenue": "258.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "52711",
+    "semesters": "Fall Classes 2022, Summer Camps 2022",
+    "lat": 40.774792,
+    "long": -73.95582,
+    "revenue": "3356.0",
+    "sessions": 22
+  },
+  {
+    "student_id": "51761",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.780759,
+    "long": -73.95791,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "48861",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.735347,
+    "long": -73.995743,
+    "revenue": "3390.0",
+    "sessions": 15
+  },
+  {
+    "student_id": "53293",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.772212,
+    "long": -73.991,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "50898",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.772984,
+    "long": -73.957834,
+    "revenue": "2580.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "27321",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.777241,
+    "long": -73.946189,
+    "revenue": "3390.0",
+    "sessions": 20
+  },
+  {
+    "student_id": "52662",
+    "semesters": "Fall Classes 2022, Summer Camps 2022",
+    "lat": 40.789161,
+    "long": -73.969056,
+    "revenue": "3596.0",
+    "sessions": 27
+  },
+  {
+    "student_id": "52839",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.770723,
+    "long": -73.95335,
+    "revenue": "2100.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "53255",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.774142,
+    "long": -73.936487,
+    "revenue": "2100.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "26573",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.789326,
+    "long": -73.970671,
+    "revenue": "2100.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "35177",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.789326,
+    "long": -73.970671,
+    "revenue": "4200.0",
+    "sessions": 20
+  },
+  {
+    "student_id": "49766",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.781372,
+    "long": -73.978641,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "35425",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.795205,
+    "long": -73.970769,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "49888",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.781372,
+    "long": -73.978641,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "53878",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.784593,
+    "long": -73.982314,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "52030",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.744309,
+    "long": -73.94186,
+    "revenue": "2100.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "35054",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.789326,
+    "long": -73.970671,
+    "revenue": "2100.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "50826",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.815167,
+    "long": -73.868416,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "52134",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.779571,
+    "long": -73.954022,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "51740",
+    "semesters": "Spring Classes 2022",
+    "lat": 40.757716,
+    "long": -73.96218,
+    "revenue": "84.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "35113",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.775682,
+    "long": -73.955843,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "52643",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.793967,
+    "long": -73.967116,
+    "revenue": "1242.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "52817",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.786188,
+    "long": -73.980914,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "34764",
+    "semesters": "Fall Classes 2022, Summer Camps 2022, Summer Classes 2022",
+    "lat": 40.787776,
+    "long": -73.954732,
+    "revenue": "3560.0",
+    "sessions": 25
+  },
+  {
+    "student_id": "50355",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.77082,
+    "long": -73.959524,
+    "revenue": "2100.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "52379",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.763727,
+    "long": -73.984848,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "52415",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.661065,
+    "long": -73.923295,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "52377",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.763727,
+    "long": -73.984848,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "52416",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.661065,
+    "long": -73.923295,
+    "revenue": "2064.0",
+    "sessions": 8
+  },
+  {
+    "student_id": "32531",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.756129,
+    "long": -73.962961,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "26649",
+    "semesters": "Fall Classes 2021, Fall Classes 2022",
+    "lat": 40.760648,
+    "long": -73.966893,
+    "revenue": "1912.0",
+    "sessions": 23
+  },
+  {
+    "student_id": "28538",
+    "semesters": "Fall Classes 2021, Fall Classes 2022",
+    "lat": 40.760648,
+    "long": -73.966893,
+    "revenue": "1912.0",
+    "sessions": 23
+  },
+  {
+    "student_id": "53447",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.773004,
+    "long": -73.945695,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "27118",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.767681,
+    "long": -73.982414,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "51727",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.794487,
+    "long": -73.949236,
+    "revenue": "2100.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "52765",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.858592,
+    "long": -73.905697,
+    "revenue": "2100.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "50415",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.777358,
+    "long": -73.95682,
+    "revenue": "2100.0",
+    "sessions": 10
+  },
+  {
+    "student_id": "54474",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.768777,
+    "long": -73.950935,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "52769",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.790565,
+    "long": -73.945982,
+    "revenue": "1344.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "55403",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.780888,
+    "long": -73.95942,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "54270",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.783953,
+    "long": -73.951932,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "55055",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.778278,
+    "long": -73.957393,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "52248",
+    "semesters": "Fall Camps 2022, Fall Classes 2022",
+    "lat": 40.77626,
+    "long": -73.95841,
+    "revenue": "1148.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "54943",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.766684,
+    "long": -73.952772,
+    "revenue": "1144.0",
+    "sessions": 13
+  },
+  {
+    "student_id": "54023",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.773957,
+    "long": -73.954177,
+    "revenue": "1144.0",
+    "sessions": 13
+  },
+  {
+    "student_id": "54307",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.772984,
+    "long": -73.957834,
+    "revenue": "1144.0",
+    "sessions": 13
+  },
+  {
+    "student_id": "54000",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.784219,
+    "long": -73.951458,
+    "revenue": "88.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "55488",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.860908,
+    "long": -73.90002,
+    "revenue": "88.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "55725",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.860908,
+    "long": -73.90002,
+    "revenue": "968.0",
+    "sessions": 11
+  },
+  {
+    "student_id": "57119",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.774492,
+    "long": -73.958323,
+    "revenue": "88.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "53314",
+    "semesters": "Fall Classes 2022, Summer Camp 2022",
+    "lat": 40.781306,
+    "long": -73.951472,
+    "revenue": "2220.0",
+    "sessions": 24
+  },
+  {
+    "student_id": "55659",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.779571,
+    "long": -73.954022,
+    "revenue": "88.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "53337",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.780486,
+    "long": -73.956532,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "55412",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.887446,
+    "long": -73.912609,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "55428",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.847913,
+    "long": -73.940712,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "54414",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.847913,
+    "long": -73.940712,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "54870",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.780759,
+    "long": -73.95791,
+    "revenue": "1144.0",
+    "sessions": 13
+  },
+  {
+    "student_id": "54955",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.771734,
+    "long": -73.959594,
+    "revenue": "1144.0",
+    "sessions": 13
+  },
+  {
+    "student_id": "26795",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.772984,
+    "long": -73.957834,
+    "revenue": "1144.0",
+    "sessions": 13
+  },
+  {
+    "student_id": "27311",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.778167,
+    "long": -73.948909,
+    "revenue": "1056.0",
+    "sessions": 12
+  },
+  {
+    "student_id": "55374",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.762421,
+    "long": -73.962534,
+    "revenue": "2904.0",
+    "sessions": 34
+  },
+  {
+    "student_id": "54591",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.782203,
+    "long": -73.959633,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "55338",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.780759,
+    "long": -73.960165,
+    "revenue": "88.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "54577",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.782203,
+    "long": -73.959633,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "54464",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.779544,
+    "long": -73.959357,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "55486",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.764336,
+    "long": -73.958209,
+    "revenue": "1320.0",
+    "sessions": 15
+  },
+  {
+    "student_id": "55646",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.777358,
+    "long": -73.95682,
+    "revenue": "1320.0",
+    "sessions": 15
+  },
+  {
+    "student_id": "55494",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.778589,
+    "long": -73.950792,
+    "revenue": "1320.0",
+    "sessions": 15
+  },
+  {
+    "student_id": "55496",
+    "semesters": "Fall Camps 2022, Fall Classes 2022",
+    "lat": 40.778589,
+    "long": -73.950792,
+    "revenue": "1760.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "37845",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.913293,
+    "long": -73.957864,
+    "revenue": "1056.0",
+    "sessions": 12
+  },
+  {
+    "student_id": "54273",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.790099,
+    "long": -73.966359,
+    "revenue": "1496.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "39844",
+    "semesters": "Fall Classes 2022",
+    "lat": null,
+    "long": null,
+    "revenue": "1496.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "55976",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.777935,
+    "long": -73.956328,
+    "revenue": "1320.0",
+    "sessions": 15
+  },
+  {
+    "student_id": "55522",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.775275,
+    "long": -73.955155,
+    "revenue": "88.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "54934",
+    "semesters": "Fall Camps 2022, Fall Classes 2022",
+    "lat": 40.619747,
+    "long": -73.995479,
+    "revenue": "2316.0",
+    "sessions": 20
+  },
+  {
+    "student_id": "55663",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.781007,
+    "long": -73.946774,
+    "revenue": "116.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "53933",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.748066,
+    "long": -73.972862,
+    "revenue": "1496.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "55424",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.722977,
+    "long": -74.009352,
+    "revenue": "88.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "54435",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.771745,
+    "long": -73.950829,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "55562",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.758146,
+    "long": -73.96525,
+    "revenue": "88.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "55324",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.775123,
+    "long": -73.952718,
+    "revenue": "1471.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "55057",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.774067,
+    "long": -73.952299,
+    "revenue": "1408.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "55336",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.757541,
+    "long": -73.96836,
+    "revenue": "1496.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "55332",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.755492,
+    "long": -73.967535,
+    "revenue": "1496.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "53119",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.753357,
+    "long": -73.968274,
+    "revenue": "300.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "53259",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.735795,
+    "long": -73.992507,
+    "revenue": "1290.0",
+    "sessions": 5
+  },
+  {
+    "student_id": "53677",
+    "semesters": "Summer Camps 2022",
+    "lat": 40.787776,
+    "long": -73.954732,
+    "revenue": "516.0",
+    "sessions": 2
+  },
+  {
+    "student_id": "54011",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.769562,
+    "long": -73.950813,
+    "revenue": "1496.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "55366",
+    "semesters": "Fall Camps 2022, Fall Classes 2022",
+    "lat": 40.783957,
+    "long": -73.94907,
+    "revenue": "1628.0",
+    "sessions": 17
+  },
+  {
+    "student_id": "23834",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.782477,
+    "long": -73.950449,
+    "revenue": "88.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "55611",
+    "semesters": "Fall Classes 2022",
+    "lat": 40.789905,
+    "long": -73.976805,
+    "revenue": "1856.0",
+    "sessions": 16
+  },
+  {
+    "student_id": "57008",
+    "semesters": "Fall Camps 2022",
+    "lat": 40.784627,
+    "long": -73.950459,
+    "revenue": "440.0",
+    "sessions": 2
+  },
+  {
+    "student_id": "55746",
+    "semesters": "Fall Camps 2022",
+    "lat": 40.787252,
+    "long": -73.954658,
+    "revenue": "220.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "55787",
+    "semesters": "Fall Camps 2022",
+    "lat": 40.779848,
+    "long": -73.953395,
+    "revenue": "220.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "55810",
+    "semesters": "Fall Camps 2022",
+    "lat": 40.76079,
+    "long": -73.991703,
+    "revenue": "220.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "56810",
+    "semesters": "Fall Camps 2022",
+    "lat": 40.789149,
+    "long": -73.975426,
+    "revenue": "220.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "34436",
+    "semesters": "Fall Camps 2022",
+    "lat": 40.772262,
+    "long": -73.949373,
+    "revenue": "220.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "55454",
+    "semesters": "Fall Camps 2022",
+    "lat": 40.765951,
+    "long": -73.988475,
+    "revenue": "220.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "55477",
+    "semesters": "Fall Camps 2022",
+    "lat": 40.764336,
+    "long": -73.958209,
+    "revenue": "220.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "55476",
+    "semesters": "Fall Camps 2022",
+    "lat": 40.764336,
+    "long": -73.958209,
+    "revenue": "220.0",
+    "sessions": 1
+  },
+  {
+    "student_id": "55664",
+    "semesters": "Fall Camps 2022",
+    "lat": 40.778589,
+    "long": -73.950792,
+    "revenue": "220.0",
+    "sessions": 1
+  }
+]

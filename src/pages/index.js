@@ -1,10 +1,12 @@
-import Head from 'next/head';
+import Head from "next/head";
+import Map from "../components/Map";
 
-import Map from '../components/Map';
+import styles from "../../styles/Home.module.css";
 
-import styles from '../../styles/Home.module.css';
+import data from "./uesData.json";
 
-const DEFAULT_CENTER = [38.907132, -77.036546]
+const DEFAULT_CENTER = [40.776924, -73.9571366];
+const fillBlueOptions = { fillColor: "blue" };
 
 export default function Home() {
   return (
@@ -15,56 +17,28 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Next.js Leaflet Starter
-        </h1>
-
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
+        <h1 className={styles.title}>UES Location</h1>
+        <p>A snapshot of activity since Jan 1, 2022</p>
 
         <Map className={styles.homeMap} center={DEFAULT_CENTER} zoom={12}>
-          {({ TileLayer, Marker, Popup }) => (
+          {({ TileLayer, Circle }) => (
             <>
               <TileLayer
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                attribution="&copy; <a href=&quot;http://osm.org/copyright&quot;>OpenStreetMap</a> contributors"
+                attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
               />
-              <Marker position={DEFAULT_CENTER}>
-                <Popup>
-                  A pretty CSS3 popup. <br /> Easily customizable.
-                </Popup>
-              </Marker>
+              {data
+                .filter((d) => d && d.lat && d.long)
+                .map((d) => (
+                  <Circle
+                    center={[d.lat, d.long]}
+                    pathOptions={fillBlueOptions}
+                    radius={d.sessions}
+                  />
+                ))}
             </>
           )}
         </Map>
-
-        <p className={styles.description}>
-          <code className={styles.code}>yarn create next-app -e https://github.com/colbyfayock/next-leaflet-starter</code>
-        </p>
-
-        <div className={styles.grid}>
-          <a href="https://github.com/colbyfayock/next-leaflet-starter" className={styles.card}>
-            <h3>GitHub &rarr;</h3>
-            <p>See the code in action.</p>
-          </a>
-
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Next.js &rarr;</h3>
-            <p>Getting started with Next.js</p>
-          </a>
-
-          <a href="https://leafletjs.com/" className={styles.card}>
-            <h3>Leaflet &rarr;</h3>
-            <p>Mapping features and APIs.</p>
-          </a>
-
-          <a href="https://react-leaflet.js.org/" className={styles.card}>
-            <h3>React Leaflet &rarr;</h3>
-            <p>Native Leaflet components in React</p>
-          </a>
-        </div>
       </main>
 
       <footer className={styles.footer}>
@@ -73,10 +47,10 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by{" "}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
-  )
+  );
 }
